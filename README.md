@@ -1,1 +1,1 @@
-Alguns programas antigos feitos em python
+Some old programs in python
